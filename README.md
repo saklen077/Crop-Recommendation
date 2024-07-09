@@ -1,6 +1,10 @@
 An AI powered agriculture utility platform
 
 ## Screenshot of Crop recommendation 
+![image](https://github.com/saklen077/Crop-Recommendation/assets/110762373/71df33a5-7c90-440f-8ad7-096aa7fa684d)
+
+![image](https://github.com/saklen077/Crop-Recommendation/assets/110762373/48801df4-fb1f-44ac-8e9e-0399245a5db5)
+
 ![image](https://github.com/saklen077/Crop-Recommendation/assets/110762373/ff2ba5ab-7b11-467d-bf4b-d074ad16a0d9)
 
 ## Features

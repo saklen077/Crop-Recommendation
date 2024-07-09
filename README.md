@@ -1,4 +1,8 @@
 An AI powered agriculture utility platform
+
+## Screenshot of Crop recommendation 
+![image](https://github.com/saklen077/Crop-Recommendation/assets/110762373/ff2ba5ab-7b11-467d-bf4b-d074ad16a0d9)
+
 ## Features
 - Crop recommendation based on soil quality and environmental factors
 - Information about different crops

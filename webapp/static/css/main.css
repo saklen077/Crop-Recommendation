@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    margin-top: 0px;
+}
+
+@media only screen and (max-width: 482px) {
+    .carousel-caption{
+        left: 5%;
+        right: 5%;
+        top:42%;
+    }
+    .carousel-caption p{
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (min-device-width: 483px) 
+    and (max-device-width: 768px) {
+        .carousel-caption{
+          top: 42%;
+        }
+    }
